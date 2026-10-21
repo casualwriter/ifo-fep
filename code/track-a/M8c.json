@@ -1,0 +1,26 @@
+{
+ "eps_0.1": {
+  "num_nats_median_IE_EI": [
+   1.9851443649939468e-07,
+   2.0209603696013192e-07
+  ],
+  "den_nats_median_IE_EI": [
+   9.506528650485291e-05,
+   9.069997615146486e-05
+  ],
+  "n_den_lt_1e12": 0
+ },
+ "eps_0.0": {
+  "num_nats_median_IE_EI": [
+   0.0,
+   0.0
+  ],
+  "den_nats_median_IE_EI": [
+   9.52869916286403e-05,
+   9.700129582823624e-05
+  ],
+  "n_den_lt_1e12": 9
+ },
+ "necessity_t3_rel_err_median": 0.0201276920540657,
+ "necessity_t3_rel_err_q90": 0.023087944325210594
+}

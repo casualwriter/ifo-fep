@@ -1,0 +1,6 @@
+{
+ "diffusion_D_max_relerr": 5.858056551022034e-15,
+ "diffusion_I_frac_relerr_gt": 1.0,
+ "diffusion_I_frac_IE_nonzero": 1.0,
+ "diffusion_I_median_IE_rel": 0.05208321415390961
+}

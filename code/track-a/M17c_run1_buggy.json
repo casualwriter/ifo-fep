@@ -1,0 +1,15 @@
+{
+ "a_sensory_only": {
+  "min": 0.0011063655324603516,
+  "median": 0.014967471247685937,
+  "max": 0.22970739687230662,
+  "frac_gt_1e4": 1.0
+ },
+ "a_whole_blanket_max": 0.0,
+ "b_snapshot_R2_min": 0.999999999999995,
+ "b_causal_MI_min": 0.0,
+ "b_causal_MI_median": 0.0027494314595926106,
+ "b_M_min": 0.0,
+ "pred_a": true,
+ "pred_b": false
+}

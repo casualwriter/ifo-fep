@@ -1,0 +1,354 @@
+{
+ "load_out_0.01_osr_downwind_4.csv": {
+  "blocks_used": 4999,
+  "z_threshold": 2.84,
+  "sensors": {
+   "rpm_in": {
+    "z": -28.85,
+    "significant": true,
+    "descendant": true
+   },
+   "rpm_out": {
+    "z": -139.05,
+    "significant": true,
+    "descendant": true
+   },
+   "current_in": {
+    "z": 214.26,
+    "significant": true,
+    "descendant": true
+   },
+   "current_out": {
+    "z": -0.07,
+    "significant": false,
+    "descendant": true
+   },
+   "pressure_intake": {
+    "z": -2.71,
+    "significant": false,
+    "descendant": true
+   },
+   "pressure_upwind": {
+    "z": -8.45,
+    "significant": true,
+    "descendant": true
+   },
+   "pressure_downwind": {
+    "z": 0.25,
+    "significant": false,
+    "descendant": true
+   },
+   "mic": {
+    "z": -11.43,
+    "significant": true,
+    "descendant": true
+   },
+   "pressure_ambient": {
+    "z": -0.46,
+    "significant": false,
+    "descendant": false
+   },
+   "signal_1": {
+    "z": 0.05,
+    "significant": false,
+    "descendant": false
+   },
+   "signal_2": {
+    "z": -0.37,
+    "significant": false,
+    "descendant": false
+   }
+  },
+  "missed_descendants": [
+   "current_out",
+   "pressure_intake",
+   "pressure_downwind"
+  ],
+  "false_rejections": [],
+  "observational_ambient_vs_downwind": {
+   "level_corr": 1.0,
+   "increment_corr": 0.005
+  }
+ },
+ "load_out_0.5_osr_downwind_2.csv": {
+  "blocks_used": 4999,
+  "z_threshold": 2.84,
+  "sensors": {
+   "rpm_in": {
+    "z": -36.42,
+    "significant": true,
+    "descendant": true
+   },
+   "rpm_out": {
+    "z": -50.73,
+    "significant": true,
+    "descendant": true
+   },
+   "current_in": {
+    "z": 198.58,
+    "significant": true,
+    "descendant": true
+   },
+   "current_out": {
+    "z": 0.98,
+    "significant": false,
+    "descendant": true
+   },
+   "pressure_intake": {
+    "z": -3.57,
+    "significant": true,
+    "descendant": true
+   },
+   "pressure_upwind": {
+    "z": -9.07,
+    "significant": true,
+    "descendant": true
+   },
+   "pressure_downwind": {
+    "z": -1.02,
+    "significant": false,
+    "descendant": true
+   },
+   "mic": {
+    "z": -7.42,
+    "significant": true,
+    "descendant": true
+   },
+   "pressure_ambient": {
+    "z": -1.4,
+    "significant": false,
+    "descendant": false
+   },
+   "signal_1": {
+    "z": -0.65,
+    "significant": false,
+    "descendant": false
+   },
+   "signal_2": {
+    "z": 1.12,
+    "significant": false,
+    "descendant": false
+   }
+  },
+  "missed_descendants": [
+   "current_out",
+   "pressure_downwind"
+  ],
+  "false_rejections": [],
+  "observational_ambient_vs_downwind": {
+   "level_corr": 1.0,
+   "increment_corr": -0.006
+  }
+ },
+ "load_out_0.5_osr_downwind_4.csv": {
+  "blocks_used": 4999,
+  "z_threshold": 2.84,
+  "sensors": {
+   "rpm_in": {
+    "z": -34.78,
+    "significant": true,
+    "descendant": true
+   },
+   "rpm_out": {
+    "z": -50.99,
+    "significant": true,
+    "descendant": true
+   },
+   "current_in": {
+    "z": 206.24,
+    "significant": true,
+    "descendant": true
+   },
+   "current_out": {
+    "z": 2.21,
+    "significant": false,
+    "descendant": true
+   },
+   "pressure_intake": {
+    "z": -3.63,
+    "significant": true,
+    "descendant": true
+   },
+   "pressure_upwind": {
+    "z": -11.76,
+    "significant": true,
+    "descendant": true
+   },
+   "pressure_downwind": {
+    "z": -0.71,
+    "significant": false,
+    "descendant": true
+   },
+   "mic": {
+    "z": -9.24,
+    "significant": true,
+    "descendant": true
+   },
+   "pressure_ambient": {
+    "z": -2.04,
+    "significant": false,
+    "descendant": false
+   },
+   "signal_1": {
+    "z": -2.5,
+    "significant": false,
+    "descendant": false
+   },
+   "signal_2": {
+    "z": -0.19,
+    "significant": false,
+    "descendant": false
+   }
+  },
+  "missed_descendants": [
+   "current_out",
+   "pressure_downwind"
+  ],
+  "false_rejections": [],
+  "observational_ambient_vs_downwind": {
+   "level_corr": 1.0,
+   "increment_corr": 0.002
+  }
+ },
+ "load_out_0.5_osr_downwind_8.csv": {
+  "blocks_used": 4999,
+  "z_threshold": 2.84,
+  "sensors": {
+   "rpm_in": {
+    "z": -35.63,
+    "significant": true,
+    "descendant": true
+   },
+   "rpm_out": {
+    "z": -49.1,
+    "significant": true,
+    "descendant": true
+   },
+   "current_in": {
+    "z": 185.13,
+    "significant": true,
+    "descendant": true
+   },
+   "current_out": {
+    "z": 1.89,
+    "significant": false,
+    "descendant": true
+   },
+   "pressure_intake": {
+    "z": -3.53,
+    "significant": true,
+    "descendant": true
+   },
+   "pressure_upwind": {
+    "z": -6.36,
+    "significant": true,
+    "descendant": true
+   },
+   "pressure_downwind": {
+    "z": -0.34,
+    "significant": false,
+    "descendant": true
+   },
+   "mic": {
+    "z": -9.1,
+    "significant": true,
+    "descendant": true
+   },
+   "pressure_ambient": {
+    "z": -1.28,
+    "significant": false,
+    "descendant": false
+   },
+   "signal_1": {
+    "z": -0.82,
+    "significant": false,
+    "descendant": false
+   },
+   "signal_2": {
+    "z": 1.15,
+    "significant": false,
+    "descendant": false
+   }
+  },
+  "missed_descendants": [
+   "current_out",
+   "pressure_downwind"
+  ],
+  "false_rejections": [],
+  "observational_ambient_vs_downwind": {
+   "level_corr": 0.998,
+   "increment_corr": 0.007
+  }
+ },
+ "load_out_1_osr_downwind_4.csv": {
+  "blocks_used": 4999,
+  "z_threshold": 2.84,
+  "sensors": {
+   "rpm_in": {
+    "z": -59.23,
+    "significant": true,
+    "descendant": true
+   },
+   "rpm_out": {
+    "z": -12.35,
+    "significant": true,
+    "descendant": true
+   },
+   "current_in": {
+    "z": 113.23,
+    "significant": true,
+    "descendant": true
+   },
+   "current_out": {
+    "z": -0.01,
+    "significant": false,
+    "descendant": true
+   },
+   "pressure_intake": {
+    "z": -3.56,
+    "significant": true,
+    "descendant": true
+   },
+   "pressure_upwind": {
+    "z": -4.71,
+    "significant": true,
+    "descendant": true
+   },
+   "pressure_downwind": {
+    "z": -0.23,
+    "significant": false,
+    "descendant": true
+   },
+   "mic": {
+    "z": -0.37,
+    "significant": false,
+    "descendant": true
+   },
+   "pressure_ambient": {
+    "z": -0.98,
+    "significant": false,
+    "descendant": false
+   },
+   "signal_1": {
+    "z": -1.19,
+    "significant": false,
+    "descendant": false
+   },
+   "signal_2": {
+    "z": -0.07,
+    "significant": false,
+    "descendant": false
+   }
+  },
+  "missed_descendants": [
+   "current_out",
+   "pressure_downwind",
+   "mic"
+  ],
+  "false_rejections": [],
+  "observational_ambient_vs_downwind": {
+   "level_corr": 1.0,
+   "increment_corr": 0.003
+  }
+ }
+}

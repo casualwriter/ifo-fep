@@ -1,0 +1,49 @@
+{
+ "L1_one_layer": {
+  "frac_M_gt": 0.96,
+  "frac_leak_gt": 0.96,
+  "median_leak": 0.13335787193073403
+ },
+ "L2_two_layer": {
+  "max_M": 0.0,
+  "max_leak": 0.0
+ },
+ "many_outsides": {
+  "near_candidates": [
+   1
+  ],
+  "near_all_exact": true,
+  "near_undefined": 1,
+  "far_candidates": [
+   1,
+   2
+  ],
+  "far_all_exact": true,
+  "far_undefined": 1
+ },
+ "moving": {
+  "by_eps": {
+   "0.0": {
+    "leak_L1L2": 0.0,
+    "leak_L2L3_max": 0.0,
+    "n_undefined": 1
+   },
+   "0.1": {
+    "leak_L1L2": 0.041216057078614664,
+    "leak_L2L3_max": 0.0,
+    "n_undefined": 1
+   },
+   "0.2": {
+    "leak_L1L2": 0.13928248482496924,
+    "leak_L2L3_max": 0.0,
+    "n_undefined": 1
+   },
+   "0.3": {
+    "leak_L1L2": 0.28686196649991963,
+    "leak_L2L3_max": 0.0,
+    "n_undefined": 1
+   }
+  },
+  "slope": 1.7650218102840114
+ }
+}

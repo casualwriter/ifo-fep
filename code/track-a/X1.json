@@ -1,0 +1,502 @@
+{
+ "load_out_0.01_osr_downwind_4.csv": {
+  "0.15s": {
+   "pressure_intake": [
+    0.008,
+    0.007
+   ],
+   "pressure_upwind": [
+    0.002,
+    0.003
+   ],
+   "pressure_downwind": [
+    0.002,
+    0.002
+   ]
+  },
+  "0.75s": {
+   "pressure_intake": [
+    0.089,
+    0.091
+   ],
+   "pressure_upwind": [
+    0.015,
+    0.064
+   ],
+   "pressure_downwind": [
+    0.027,
+    0.08
+   ]
+  },
+  "3.00s": {
+   "pressure_intake": [
+    0.405,
+    0.433
+   ],
+   "pressure_upwind": [
+    0.125,
+    0.391
+   ],
+   "pressure_downwind": [
+    0.144,
+    0.419
+   ]
+  },
+  "0.1min": {
+   "pressure_intake": [
+    0.959,
+    0.969
+   ],
+   "pressure_upwind": [
+    0.806,
+    0.951
+   ],
+   "pressure_downwind": [
+    0.791,
+    0.961
+   ]
+  },
+  "1.4min": {
+   "pressure_intake": [
+    0.99,
+    0.999
+   ],
+   "pressure_upwind": [
+    0.976,
+    0.993
+   ],
+   "pressure_downwind": [
+    0.976,
+    0.993
+   ]
+  },
+  "14.1min": {
+   "pressure_intake": [
+    0.998,
+    1.008
+   ],
+   "pressure_upwind": [
+    0.998,
+    1.009
+   ],
+   "pressure_downwind": [
+    0.998,
+    1.01
+   ]
+  },
+  "141.0min": {
+   "pressure_intake": [
+    1.0,
+    1.004
+   ],
+   "pressure_upwind": [
+    1.0,
+    1.003
+   ],
+   "pressure_downwind": [
+    1.0,
+    1.004
+   ]
+  }
+ },
+ "load_out_0.5_osr_downwind_2.csv": {
+  "0.15s": {
+   "pressure_intake": [
+    0.011,
+    0.011
+   ],
+   "pressure_upwind": [
+    -0.006,
+    -0.012
+   ],
+   "pressure_downwind": [
+    -0.006,
+    -0.013
+   ]
+  },
+  "0.75s": {
+   "pressure_intake": [
+    0.058,
+    0.063
+   ],
+   "pressure_upwind": [
+    0.009,
+    0.041
+   ],
+   "pressure_downwind": [
+    0.01,
+    0.031
+   ]
+  },
+  "3.00s": {
+   "pressure_intake": [
+    0.234,
+    0.27
+   ],
+   "pressure_upwind": [
+    0.049,
+    0.205
+   ],
+   "pressure_downwind": [
+    0.061,
+    0.256
+   ]
+  },
+  "0.1min": {
+   "pressure_intake": [
+    0.923,
+    0.959
+   ],
+   "pressure_upwind": [
+    0.611,
+    0.934
+   ],
+   "pressure_downwind": [
+    0.543,
+    0.961
+   ]
+  },
+  "1.4min": {
+   "pressure_intake": [
+    0.983,
+    0.984
+   ],
+   "pressure_upwind": [
+    0.955,
+    0.984
+   ],
+   "pressure_downwind": [
+    0.945,
+    1.014
+   ]
+  },
+  "14.2min": {
+   "pressure_intake": [
+    0.997,
+    0.985
+   ],
+   "pressure_upwind": [
+    0.995,
+    0.989
+   ],
+   "pressure_downwind": [
+    0.994,
+    1.001
+   ]
+  },
+  "141.8min": {
+   "pressure_intake": [
+    1.0,
+    0.996
+   ],
+   "pressure_upwind": [
+    1.0,
+    0.997
+   ],
+   "pressure_downwind": [
+    1.0,
+    0.995
+   ]
+  }
+ },
+ "load_out_0.5_osr_downwind_4.csv": {
+  "0.15s": {
+   "pressure_intake": [
+    0.005,
+    0.005
+   ],
+   "pressure_upwind": [
+    -0.0,
+    -0.0
+   ],
+   "pressure_downwind": [
+    0.003,
+    0.003
+   ]
+  },
+  "0.75s": {
+   "pressure_intake": [
+    0.022,
+    0.024
+   ],
+   "pressure_upwind": [
+    -0.007,
+    -0.03
+   ],
+   "pressure_downwind": [
+    -0.003,
+    -0.008
+   ]
+  },
+  "3.00s": {
+   "pressure_intake": [
+    0.072,
+    0.083
+   ],
+   "pressure_upwind": [
+    0.021,
+    0.094
+   ],
+   "pressure_downwind": [
+    0.027,
+    0.111
+   ]
+  },
+  "0.1min": {
+   "pressure_intake": [
+    0.766,
+    0.836
+   ],
+   "pressure_upwind": [
+    0.37,
+    0.872
+   ],
+   "pressure_downwind": [
+    0.327,
+    0.894
+   ]
+  },
+  "1.4min": {
+   "pressure_intake": [
+    0.981,
+    0.983
+   ],
+   "pressure_upwind": [
+    0.946,
+    0.985
+   ],
+   "pressure_downwind": [
+    0.938,
+    0.992
+   ]
+  },
+  "14.2min": {
+   "pressure_intake": [
+    0.998,
+    0.988
+   ],
+   "pressure_upwind": [
+    0.997,
+    0.992
+   ],
+   "pressure_downwind": [
+    0.997,
+    0.997
+   ]
+  },
+  "141.7min": {
+   "pressure_intake": [
+    0.999,
+    1.003
+   ],
+   "pressure_upwind": [
+    0.999,
+    0.998
+   ],
+   "pressure_downwind": [
+    1.0,
+    0.995
+   ]
+  }
+ },
+ "load_out_0.5_osr_downwind_8.csv": {
+  "0.15s": {
+   "pressure_intake": [
+    0.007,
+    0.007
+   ],
+   "pressure_upwind": [
+    -0.0,
+    -0.001
+   ],
+   "pressure_downwind": [
+    0.004,
+    0.004
+   ]
+  },
+  "0.75s": {
+   "pressure_intake": [
+    0.101,
+    0.108
+   ],
+   "pressure_upwind": [
+    0.007,
+    0.03
+   ],
+   "pressure_downwind": [
+    0.032,
+    0.071
+   ]
+  },
+  "3.00s": {
+   "pressure_intake": [
+    0.452,
+    0.498
+   ],
+   "pressure_upwind": [
+    0.128,
+    0.454
+   ],
+   "pressure_downwind": [
+    0.149,
+    0.465
+   ]
+  },
+  "0.1min": {
+   "pressure_intake": [
+    0.964,
+    0.985
+   ],
+   "pressure_upwind": [
+    0.741,
+    0.977
+   ],
+   "pressure_downwind": [
+    0.697,
+    0.985
+   ]
+  },
+  "1.4min": {
+   "pressure_intake": [
+    0.987,
+    0.992
+   ],
+   "pressure_upwind": [
+    0.954,
+    0.998
+   ],
+   "pressure_downwind": [
+    0.946,
+    0.993
+   ]
+  },
+  "14.2min": {
+   "pressure_intake": [
+    0.998,
+    1.002
+   ],
+   "pressure_upwind": [
+    0.996,
+    1.01
+   ],
+   "pressure_downwind": [
+    0.996,
+    1.001
+   ]
+  },
+  "141.8min": {
+   "pressure_intake": [
+    1.0,
+    1.02
+   ],
+   "pressure_upwind": [
+    0.999,
+    1.023
+   ],
+   "pressure_downwind": [
+    0.999,
+    1.014
+   ]
+  }
+ },
+ "load_out_1_osr_downwind_4.csv": {
+  "0.15s": {
+   "pressure_intake": [
+    -0.004,
+    -0.004
+   ],
+   "pressure_upwind": [
+    0.003,
+    0.009
+   ],
+   "pressure_downwind": [
+    0.001,
+    0.002
+   ]
+  },
+  "0.75s": {
+   "pressure_intake": [
+    0.01,
+    0.013
+   ],
+   "pressure_upwind": [
+    0.007,
+    0.038
+   ],
+   "pressure_downwind": [
+    0.005,
+    0.014
+   ]
+  },
+  "3.00s": {
+   "pressure_intake": [
+    0.025,
+    0.033
+   ],
+   "pressure_upwind": [
+    0.024,
+    0.11
+   ],
+   "pressure_downwind": [
+    0.003,
+    0.01
+   ]
+  },
+  "0.1min": {
+   "pressure_intake": [
+    0.364,
+    0.751
+   ],
+   "pressure_upwind": [
+    0.046,
+    0.581
+   ],
+   "pressure_downwind": [
+    0.028,
+    0.486
+   ]
+  },
+  "1.4min": {
+   "pressure_intake": [
+    0.914,
+    0.977
+   ],
+   "pressure_upwind": [
+    0.416,
+    0.973
+   ],
+   "pressure_downwind": [
+    0.318,
+    0.969
+   ]
+  },
+  "14.2min": {
+   "pressure_intake": [
+    0.991,
+    1.017
+   ],
+   "pressure_upwind": [
+    0.92,
+    1.018
+   ],
+   "pressure_downwind": [
+    0.869,
+    1.02
+   ]
+  },
+  "142.5min": {
+   "pressure_intake": [
+    0.999,
+    1.01
+   ],
+   "pressure_upwind": [
+    0.996,
+    1.008
+   ],
+   "pressure_downwind": [
+    0.993,
+    1.007
+   ]
+  }
+ }
+}

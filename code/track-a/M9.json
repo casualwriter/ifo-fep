@@ -1,0 +1,14 @@
+{
+ "D1_general_x0known": {
+  "frac_gt_1e3": 0.99,
+  "median": 0.05464138958780908
+ },
+ "D2_split_x0known": {
+  "max_abs": 3.226585665316861e-15,
+  "median": 8.326672684688674e-17
+ },
+ "D3_split_stationary": {
+  "frac_gt_1e6": 1.0,
+  "median": 0.00780380358522248
+ }
+}

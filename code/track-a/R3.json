@@ -1,0 +1,196 @@
+{
+ "results": {
+  "random_loads_intake.csv": {
+   "events": 1998,
+   "z_threshold": 2.84,
+   "tests": {
+    "load_in->rpm_in": {
+     "b": 2802.232106177104,
+     "z": 156.06,
+     "significant": true,
+     "descendant": true
+    },
+    "load_in->rpm_out": {
+     "b": 1160.4470555374546,
+     "z": 118.1,
+     "significant": true,
+     "descendant": true
+    },
+    "load_in->current_in": {
+     "b": 185.24211871260917,
+     "z": 116.72,
+     "significant": true,
+     "descendant": true
+    },
+    "load_in->current_out": {
+     "b": -3.1955479651552605,
+     "z": -26.1,
+     "significant": true,
+     "descendant": true
+    },
+    "load_in->pressure_intake": {
+     "b": -1.3374209859006878,
+     "z": -22.0,
+     "significant": true,
+     "descendant": true
+    },
+    "load_in->pressure_upwind": {
+     "b": 28.997905822639627,
+     "z": 229.66,
+     "significant": true,
+     "descendant": true
+    },
+    "load_in->pressure_downwind": {
+     "b": 17.915633521346976,
+     "z": 297.11,
+     "significant": true,
+     "descendant": true
+    },
+    "load_in->mic": {
+     "b": 148.34008266515778,
+     "z": 21.73,
+     "significant": true,
+     "descendant": true
+    },
+    "load_in->pressure_ambient": {
+     "b": 0.06694183161307021,
+     "z": 2.47,
+     "significant": false,
+     "descendant": false
+    },
+    "load_in->signal_1": {
+     "b": -0.02998084927982814,
+     "z": -0.88,
+     "significant": false,
+     "descendant": false
+    },
+    "load_in->signal_2": {
+     "b": 0.022763944730255923,
+     "z": 0.66,
+     "significant": false,
+     "descendant": false
+    }
+   }
+  },
+  "random_loads_both.csv": {
+   "events": 1998,
+   "z_threshold": 2.84,
+   "tests": {
+    "load_in->rpm_in": {
+     "b": 2872.32609758001,
+     "z": 156.37,
+     "significant": true,
+     "descendant": true
+    },
+    "load_in->rpm_out": {
+     "b": 2952.6549962772433,
+     "z": 156.76,
+     "significant": true,
+     "descendant": true
+    },
+    "load_in->current_in": {
+     "b": 169.05111075125754,
+     "z": 118.79,
+     "significant": true,
+     "descendant": true
+    },
+    "load_in->current_out": {
+     "b": 143.53822653125084,
+     "z": 119.93,
+     "significant": true,
+     "descendant": true
+    },
+    "load_in->pressure_intake": {
+     "b": -3.9450064456382816,
+     "z": -41.0,
+     "significant": true,
+     "descendant": true
+    },
+    "load_in->pressure_upwind": {
+     "b": 11.84588492736011,
+     "z": 119.67,
+     "significant": true,
+     "descendant": true
+    },
+    "load_in->pressure_downwind": {
+     "b": -8.481750124254402,
+     "z": -132.62,
+     "significant": true,
+     "descendant": true
+    },
+    "load_in->mic": {
+     "b": 223.7876401222193,
+     "z": 28.68,
+     "significant": true,
+     "descendant": true
+    },
+    "load_in->pressure_ambient": {
+     "b": 0.19183865257144317,
+     "z": 5.53,
+     "significant": true,
+     "descendant": false
+    },
+    "load_in->signal_1": {
+     "b": -0.06076363385213857,
+     "z": -1.5,
+     "significant": false,
+     "descendant": false
+    },
+    "load_in->signal_2": {
+     "b": 0.051306703998274236,
+     "z": 1.25,
+     "significant": false,
+     "descendant": false
+    }
+   }
+  }
+ },
+ "summary": {
+  "intake push (random_loads_intake.csv)": {
+   "detected": "8/8",
+   "missed": [],
+   "false": [],
+   "z": {
+    "rpm_in": 156.06,
+    "rpm_out": 118.1,
+    "current_in": 116.72,
+    "current_out": -26.1,
+    "pressure_intake": -22.0,
+    "pressure_upwind": 229.66,
+    "pressure_downwind": 297.11,
+    "mic": 21.73,
+    "pressure_ambient": 2.47,
+    "signal_1": -0.88,
+    "signal_2": 0.66
+   }
+  },
+  "joint push (random_loads_both.csv)": {
+   "detected": "8/8",
+   "missed": [],
+   "false": [
+    "pressure_ambient"
+   ],
+   "z": {
+    "rpm_in": 156.37,
+    "rpm_out": 156.76,
+    "current_in": 118.79,
+    "current_out": 119.93,
+    "pressure_intake": -41.0,
+    "pressure_upwind": 119.67,
+    "pressure_downwind": -132.62,
+    "mic": 28.68,
+    "pressure_ambient": 5.53,
+    "signal_1": -1.5,
+    "signal_2": 1.25
+   }
+  }
+ },
+ "verdict": {
+  "false_calls": "1/6",
+  "min_detected": 8,
+  "death_clause_1": "FIRED",
+  "death_clause_2": "not fired",
+  "prediction_1": "failed",
+  "prediction_2": "met"
+ }
+}

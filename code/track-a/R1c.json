@@ -1,0 +1,216 @@
+{
+ "load_out_0.01_osr_downwind_4.csv": {
+  "w=4": {
+   "n": 4999,
+   "z": {
+    "rpm_in": 177.6,
+    "rpm_out": -114.32,
+    "current_in": 258.2,
+    "current_out": -1.44,
+    "pressure_intake": -9.63,
+    "pressure_upwind": 33.95,
+    "pressure_downwind": 23.56,
+    "mic": -7.84,
+    "pressure_ambient": -1.08,
+    "signal_1": 0.17,
+    "signal_2": 0.13
+   },
+   "missed": [
+    "current_out"
+   ],
+   "false": []
+  },
+  "w=8": {
+   "n": 4999,
+   "z": {
+    "rpm_in": 631.64,
+    "rpm_out": -87.88,
+    "current_in": 379.9,
+    "current_out": -1.61,
+    "pressure_intake": -14.62,
+    "pressure_upwind": 105.57,
+    "pressure_downwind": 67.51,
+    "mic": -5.91,
+    "pressure_ambient": -1.06,
+    "signal_1": -0.2,
+    "signal_2": 0.27
+   },
+   "missed": [
+    "current_out"
+   ],
+   "false": []
+  }
+ },
+ "load_out_0.5_osr_downwind_2.csv": {
+  "w=4": {
+   "n": 4999,
+   "z": {
+    "rpm_in": 150.62,
+    "rpm_out": -7.48,
+    "current_in": 236.75,
+    "current_out": -0.62,
+    "pressure_intake": -9.85,
+    "pressure_upwind": 49.66,
+    "pressure_downwind": 16.14,
+    "mic": -4.59,
+    "pressure_ambient": -1.02,
+    "signal_1": -0.22,
+    "signal_2": 1.15
+   },
+   "missed": [
+    "current_out"
+   ],
+   "false": []
+  },
+  "w=8": {
+   "n": 4999,
+   "z": {
+    "rpm_in": 532.53,
+    "rpm_out": 7.46,
+    "current_in": 383.09,
+    "current_out": -1.38,
+    "pressure_intake": -17.29,
+    "pressure_upwind": 106.41,
+    "pressure_downwind": 38.05,
+    "mic": -2.9,
+    "pressure_ambient": -1.38,
+    "signal_1": -0.54,
+    "signal_2": 0.92
+   },
+   "missed": [
+    "current_out"
+   ],
+   "false": []
+  }
+ },
+ "load_out_0.5_osr_downwind_4.csv": {
+  "w=4": {
+   "n": 4999,
+   "z": {
+    "rpm_in": 154.99,
+    "rpm_out": -7.91,
+    "current_in": 238.32,
+    "current_out": 1.1,
+    "pressure_intake": -10.14,
+    "pressure_upwind": 48.78,
+    "pressure_downwind": 29.67,
+    "mic": -6.45,
+    "pressure_ambient": -1.78,
+    "signal_1": -2.45,
+    "signal_2": 0.01
+   },
+   "missed": [
+    "current_out"
+   ],
+   "false": []
+  },
+  "w=8": {
+   "n": 4999,
+   "z": {
+    "rpm_in": 550.71,
+    "rpm_out": 6.88,
+    "current_in": 406.83,
+    "current_out": 0.1,
+    "pressure_intake": -17.93,
+    "pressure_upwind": 108.22,
+    "pressure_downwind": 67.83,
+    "mic": -4.79,
+    "pressure_ambient": -2.12,
+    "signal_1": -2.49,
+    "signal_2": -0.25
+   },
+   "missed": [
+    "current_out"
+   ],
+   "false": []
+  }
+ },
+ "load_out_0.5_osr_downwind_8.csv": {
+  "w=4": {
+   "n": 4999,
+   "z": {
+    "rpm_in": 165.99,
+    "rpm_out": -6.18,
+    "current_in": 238.34,
+    "current_out": 0.23,
+    "pressure_intake": -9.99,
+    "pressure_upwind": 49.5,
+    "pressure_downwind": 40.13,
+    "mic": -6.63,
+    "pressure_ambient": -1.86,
+    "signal_1": -1.01,
+    "signal_2": 0.59
+   },
+   "missed": [
+    "current_out"
+   ],
+   "false": []
+  },
+  "w=8": {
+   "n": 4999,
+   "z": {
+    "rpm_in": 492.53,
+    "rpm_out": 8.8,
+    "current_in": 359.19,
+    "current_out": -0.48,
+    "pressure_intake": -17.69,
+    "pressure_upwind": 104.29,
+    "pressure_downwind": 92.11,
+    "mic": -4.69,
+    "pressure_ambient": -1.52,
+    "signal_1": -1.34,
+    "signal_2": 0.56
+   },
+   "missed": [
+    "current_out"
+   ],
+   "false": []
+  }
+ },
+ "load_out_1_osr_downwind_4.csv": {
+  "w=4": {
+   "n": 4999,
+   "z": {
+    "rpm_in": 64.37,
+    "rpm_out": -2.81,
+    "current_in": 139.8,
+    "current_out": -0.88,
+    "pressure_intake": -9.41,
+    "pressure_upwind": 12.01,
+    "pressure_downwind": 12.13,
+    "mic": 0.51,
+    "pressure_ambient": -0.98,
+    "signal_1": -0.64,
+    "signal_2": 0.46
+   },
+   "missed": [
+    "rpm_out",
+    "current_out",
+    "mic"
+   ],
+   "false": []
+  },
+  "w=8": {
+   "n": 4999,
+   "z": {
+    "rpm_in": 291.0,
+    "rpm_out": 0.76,
+    "current_in": 297.3,
+    "current_out": -2.47,
+    "pressure_intake": -17.43,
+    "pressure_upwind": 49.09,
+    "pressure_downwind": 33.54,
+    "mic": 1.4,
+    "pressure_ambient": -1.25,
+    "signal_1": -0.63,
+    "signal_2": 0.61
+   },
+   "missed": [
+    "rpm_out",
+    "current_out",
+    "mic"
+   ],
+   "false": []
+  }
+ }
+}

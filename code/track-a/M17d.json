@@ -1,0 +1,15 @@
+{
+ "small_collider": {
+  "n": 30,
+  "snapshot_maps": 29,
+  "history_maps": 0,
+  "history_R2_median": 0.7143401352952738,
+  "history_R2_max": 0.993058097410883
+ },
+ "M17b_history_maps": {
+  "split": 0,
+  "collider": 0
+ },
+ "causal_maps_total": 0,
+ "networks_total": 90
+}

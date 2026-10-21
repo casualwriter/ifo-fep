@@ -1,0 +1,12 @@
+{
+ "best_differs_O1_O3": 0.995,
+ "n_fb": 13538,
+ "n_no": 46462,
+ "median_range_fb": 0.2202564000110081,
+ "median_range_no": 0.20175741838284966,
+ "p_one_sided": 1.0,
+ "prediction_1": true,
+ "prediction_2": false,
+ "death_clause_1": "not fired",
+ "death_clause_2": "FIRED"
+}

@@ -1,0 +1,552 @@
+{
+ "load_out_0.01_osr_downwind_4.csv": {
+  "pressure_ambient|pressure_intake|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    0.014249,
+    0.025379
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_intake|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.012721,
+    0.047254
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_upwind|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    0.001012,
+    0.404822
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_upwind|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.000777,
+    1.005994
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_downwind|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    0.002368,
+    0.30736
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_downwind|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.001765,
+    0.738812
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|signal_1|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    1.3e-05,
+    0.031218
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "pressure_ambient|signal_1|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    1e-05,
+    0.026855
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "pressure_ambient|signal_2|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    2.9e-05,
+    0.031666
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "pressure_ambient|signal_2|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.0,
+    0.027379
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "rpm_in|pressure_upwind|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    5.5e-05,
+    0.32565
+   ],
+   "linked": true,
+   "kind": "positive"
+  },
+  "rpm_in|pressure_upwind|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.00025,
+    0.838707
+   ],
+   "linked": true,
+   "kind": "positive"
+  }
+ },
+ "load_out_0.5_osr_downwind_2.csv": {
+  "pressure_ambient|pressure_intake|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    0.01045,
+    0.024464
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_intake|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.009789,
+    0.051559
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_upwind|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    0.000777,
+    0.31438
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_upwind|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.000853,
+    0.774181
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_downwind|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    0.002224,
+    0.10075
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_downwind|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.002462,
+    0.25017
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|signal_1|L=1": {
+   "p_min": 2.3231228716074005e-31,
+   "cmi": [
+    0.0,
+    0.000646
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "pressure_ambient|signal_1|L=5": {
+   "p_min": 5.0858310020017244e-31,
+   "cmi": [
+    3e-06,
+    0.000789
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "pressure_ambient|signal_2|L=1": {
+   "p_min": 5.0015584292298275e-56,
+   "cmi": [
+    1.6e-05,
+    0.001184
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "pressure_ambient|signal_2|L=5": {
+   "p_min": 1.524494185484183e-48,
+   "cmi": [
+    3e-06,
+    0.001261
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "rpm_in|pressure_upwind|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    0.0,
+    0.255934
+   ],
+   "linked": true,
+   "kind": "positive"
+  },
+  "rpm_in|pressure_upwind|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    1.4e-05,
+    0.676685
+   ],
+   "linked": true,
+   "kind": "positive"
+  }
+ },
+ "load_out_0.5_osr_downwind_4.csv": {
+  "pressure_ambient|pressure_intake|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    0.007752,
+    0.01758
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_intake|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.007455,
+    0.039786
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_upwind|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    0.000997,
+    0.314673
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_upwind|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.001594,
+    0.79224
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_downwind|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    0.002885,
+    0.15026
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_downwind|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.004108,
+    0.30755
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|signal_1|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    1e-06,
+    0.032244
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "pressure_ambient|signal_1|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    8e-06,
+    0.030197
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "pressure_ambient|signal_2|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    3e-06,
+    0.029733
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "pressure_ambient|signal_2|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    3e-05,
+    0.028951
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "rpm_in|pressure_upwind|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    7.5e-05,
+    0.257679
+   ],
+   "linked": true,
+   "kind": "positive"
+  },
+  "rpm_in|pressure_upwind|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.00032,
+    0.698957
+   ],
+   "linked": true,
+   "kind": "positive"
+  }
+ },
+ "load_out_0.5_osr_downwind_8.csv": {
+  "pressure_ambient|pressure_intake|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    0.015708,
+    0.033717
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_intake|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.013613,
+    0.067717
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_upwind|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    0.00099,
+    0.315499
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_upwind|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.001658,
+    0.796609
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_downwind|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    0.003192,
+    0.169999
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_downwind|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.004395,
+    0.290019
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|signal_1|L=1": {
+   "p_min": 2.0546579220232036e-187,
+   "cmi": [
+    3e-06,
+    0.00406
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "pressure_ambient|signal_1|L=5": {
+   "p_min": 3.2642263735658922e-133,
+   "cmi": [
+    1.4e-05,
+    0.003549
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "pressure_ambient|signal_2|L=1": {
+   "p_min": 3.0622069203228253e-258,
+   "cmi": [
+    2e-06,
+    0.005611
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "pressure_ambient|signal_2|L=5": {
+   "p_min": 2.3195572779228707e-194,
+   "cmi": [
+    0.0,
+    0.005203
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "rpm_in|pressure_upwind|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    3.9e-05,
+    0.253165
+   ],
+   "linked": true,
+   "kind": "positive"
+  },
+  "rpm_in|pressure_upwind|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.000221,
+    0.67701
+   ],
+   "linked": true,
+   "kind": "positive"
+  }
+ },
+ "load_out_1_osr_downwind_4.csv": {
+  "pressure_ambient|pressure_intake|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    0.008223,
+    0.034752
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_intake|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.008022,
+    0.093674
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_upwind|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    0.000454,
+    0.107409
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_upwind|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.000434,
+    0.30694
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_downwind|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    0.000717,
+    0.035753
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|pressure_downwind|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.000644,
+    0.093724
+   ],
+   "linked": true,
+   "kind": "shared"
+  },
+  "pressure_ambient|signal_1|L=1": {
+   "p_min": 7.043993841076776e-38,
+   "cmi": [
+    0.0,
+    0.000788
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "pressure_ambient|signal_1|L=5": {
+   "p_min": 9.647927916168964e-25,
+   "cmi": [
+    1e-06,
+    0.00062
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "pressure_ambient|signal_2|L=1": {
+   "p_min": 2.3926703985965844e-36,
+   "cmi": [
+    1e-06,
+    0.000755
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "pressure_ambient|signal_2|L=5": {
+   "p_min": 9.457309276538196e-29,
+   "cmi": [
+    2e-06,
+    0.000728
+   ],
+   "linked": true,
+   "kind": "negative"
+  },
+  "rpm_in|pressure_upwind|L=1": {
+   "p_min": 0.0,
+   "cmi": [
+    3.6e-05,
+    0.099794
+   ],
+   "linked": true,
+   "kind": "positive"
+  },
+  "rpm_in|pressure_upwind|L=5": {
+   "p_min": 0.0,
+   "cmi": [
+    0.0001,
+    0.297478
+   ],
+   "linked": true,
+   "kind": "positive"
+  }
+ }
+}

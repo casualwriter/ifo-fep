@@ -1,0 +1,215 @@
+{
+ "L2a": {
+  "median_lc_by_m": {
+   "1": 0.532567574029904,
+   "2": 0.17204477396087237,
+   "4": 0.12785956127495945,
+   "8": 0.12190951597930733,
+   "16": 0.119592399838472
+  },
+  "q90_by_m": {
+   "1": 1.3181261010094032,
+   "2": 0.6118500964283526,
+   "4": 0.5197087532339424,
+   "8": 0.5031654995956598,
+   "16": 0.5021376743805044
+  },
+  "loglog_slope_m8_m16": 0.02768503544330817
+ },
+ "L2b": {
+  "old_rho_best_flips": 0.5,
+  "old_rho_spearman_median": 0.5045478952274026,
+  "rho_c_max_abs_change": 4.996003610813204e-13
+ },
+ "L2c": {
+  "differs": 0.65,
+  "spearman": 0.36101301247478157,
+  "top1pct_overlap": 0.175,
+  "best_fast": 0.25604003279055854,
+  "slow_of_fastbest": 0.9062654395674392,
+  "best_slow": 0.9704397074504112,
+  "spearman_fast_vs_r0": 0.19552934134605376,
+  "rows": [
+   {
+    "differs": true,
+    "spearman": 0.24447675263267465,
+    "top1pct_overlap": 0.15,
+    "best_fast": 0.18675731708946752,
+    "slow_of_fastbest": 0.7051904011003962,
+    "best_slow": 0.8985177450285586,
+    "spearman_fast_vs_r0": 0.11089166041456461
+   },
+   {
+    "differs": false,
+    "spearman": 0.28111079924573174,
+    "top1pct_overlap": 0.3,
+    "best_fast": 0.567277283727456,
+    "slow_of_fastbest": 0.9668962322390098,
+    "best_slow": 0.9668962322390098,
+    "spearman_fast_vs_r0": 0.2973165360265843
+   },
+   {
+    "differs": false,
+    "spearman": 0.40009267494125056,
+    "top1pct_overlap": 0.65,
+    "best_fast": 0.9884793939843387,
+    "slow_of_fastbest": 0.9970835279312845,
+    "best_slow": 0.9970835279312845,
+    "spearman_fast_vs_r0": 0.16963458045377108
+   },
+   {
+    "differs": false,
+    "spearman": 0.3184758839361538,
+    "top1pct_overlap": 0.05,
+    "best_fast": 0.8695881312338516,
+    "slow_of_fastbest": 0.9931615430208184,
+    "best_slow": 0.9931615430208184,
+    "spearman_fast_vs_r0": 0.03476642548838919
+   },
+   {
+    "differs": true,
+    "spearman": 0.22744850202271488,
+    "top1pct_overlap": 0.15,
+    "best_fast": 0.2410671607566779,
+    "slow_of_fastbest": 0.8733531482030569,
+    "best_slow": 0.9727985951805633,
+    "spearman_fast_vs_r0": 0.2002241353510258
+   },
+   {
+    "differs": false,
+    "spearman": 0.3989941183254526,
+    "top1pct_overlap": 0.25,
+    "best_fast": 0.6156883795639803,
+    "slow_of_fastbest": 0.9890686177732804,
+    "best_slow": 0.9890686177732804,
+    "spearman_fast_vs_r0": 0.2865532770690762
+   },
+   {
+    "differs": true,
+    "spearman": 0.3030121687180976,
+    "top1pct_overlap": 0.05,
+    "best_fast": 0.3398636672366533,
+    "slow_of_fastbest": 0.9466463254675698,
+    "best_slow": 0.9637673779611063,
+    "spearman_fast_vs_r0": 0.10509777311494116
+   },
+   {
+    "differs": true,
+    "spearman": 0.20434996337994837,
+    "top1pct_overlap": 0.05,
+    "best_fast": 0.1995230183816411,
+    "slow_of_fastbest": 0.8676521151508203,
+    "best_slow": 0.8857563076663558,
+    "spearman_fast_vs_r0": 0.11897726579297582
+   },
+   {
+    "differs": false,
+    "spearman": 0.4578034480195991,
+    "top1pct_overlap": 0.2,
+    "best_fast": 0.2747260629093833,
+    "slow_of_fastbest": 0.9733617216205699,
+    "best_slow": 0.9733617216205699,
+    "spearman_fast_vs_r0": 0.19276781238631924
+   },
+   {
+    "differs": true,
+    "spearman": 0.3600289530559395,
+    "top1pct_overlap": 0.5,
+    "best_fast": 0.21935691749500097,
+    "slow_of_fastbest": 0.8566488326361441,
+    "best_slow": 0.9291790562686499,
+    "spearman_fast_vs_r0": 0.0919356350023654
+   },
+   {
+    "differs": true,
+    "spearman": 0.36009182122225597,
+    "top1pct_overlap": 0.05,
+    "best_fast": 0.2725084726549877,
+    "slow_of_fastbest": 0.9241858073516647,
+    "best_slow": 0.9731322080014957,
+    "spearman_fast_vs_r0": 0.2767538168761854
+   },
+   {
+    "differs": true,
+    "spearman": 0.40165973307052766,
+    "top1pct_overlap": 0.1,
+    "best_fast": 0.19954388277496715,
+    "slow_of_fastbest": 0.869758921280217,
+    "best_slow": 0.9320172376931078,
+    "spearman_fast_vs_r0": 0.26949560675753165
+   },
+   {
+    "differs": true,
+    "spearman": 0.22990639195886567,
+    "top1pct_overlap": 0.3,
+    "best_fast": 0.19876802172780106,
+    "slow_of_fastbest": 0.8505197825477468,
+    "best_slow": 0.9153677549653255,
+    "spearman_fast_vs_r0": -0.033960382898640507
+   },
+   {
+    "differs": true,
+    "spearman": 0.4630179550584348,
+    "top1pct_overlap": 0.2,
+    "best_fast": 0.25422614978155267,
+    "slow_of_fastbest": 0.8911629305670042,
+    "best_slow": 0.9306199559597017,
+    "spearman_fast_vs_r0": 0.06307429285502272
+   },
+   {
+    "differs": true,
+    "spearman": 0.48554890386974336,
+    "top1pct_overlap": 0.15,
+    "best_fast": 0.2573925182769954,
+    "slow_of_fastbest": 0.9059544139332647,
+    "best_slow": 0.9870082956440916,
+    "spearman_fast_vs_r0": 0.2190722920588797
+   },
+   {
+    "differs": false,
+    "spearman": 0.40145661534866933,
+    "top1pct_overlap": 0.2,
+    "best_fast": 0.9999567429722612,
+    "slow_of_fastbest": 0.9976934685710359,
+    "best_slow": 0.9976934685710359,
+    "spearman_fast_vs_r0": 0.19597811614718577
+   },
+   {
+    "differs": true,
+    "spearman": 0.2766176971454332,
+    "top1pct_overlap": 0.15,
+    "best_fast": 0.23470014773666525,
+    "slow_of_fastbest": 0.548993680800185,
+    "best_slow": 0.972512101522718,
+    "spearman_fast_vs_r0": 0.21588632532478086
+   },
+   {
+    "differs": true,
+    "spearman": 0.36193420372730717,
+    "top1pct_overlap": 0.05,
+    "best_fast": 0.17853150820193042,
+    "slow_of_fastbest": 0.8143165611143731,
+    "best_slow": 0.9336349020866929,
+    "spearman_fast_vs_r0": 0.218568451100042
+   },
+   {
+    "differs": false,
+    "spearman": 0.5093227866586186,
+    "top1pct_overlap": 0.4,
+    "best_fast": 0.9999734720639352,
+    "slow_of_fastbest": 0.997903858686565,
+    "best_slow": 0.997903858686565,
+    "spearman_fast_vs_r0": 0.19508056654492179
+   },
+   {
+    "differs": true,
+    "spearman": 0.4306716566791529,
+    "top1pct_overlap": 0.25,
+    "best_fast": 0.2546875473041217,
+    "slow_of_fastbest": 0.9065764652016136,
+    "best_slow": 0.9683673133781043,
+    "spearman_fast_vs_r0": 0.2758548333265387
+   }
+  ]
+ }
+}

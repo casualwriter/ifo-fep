@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Interface With Whom? Markov Blanket Claims Depend on the Observation Protocol (with the technical note Finite-Window Path Screening in Linear Diffusions: An Exact Condition and a Residual-Leak Formula)"
+type: dataset
+version: "1.0"
+date-released: "2026-10-20"
+license: CC-BY-4.0
+authors:
+  - family-names: Hung
+    given-names: CK
+    affiliation: "Amoy Technology"
+  - name: "Emmy Team (Amoy Technology)"
+keywords:
+  - free energy principle
+  - Markov blanket
+  - conditional independence
+  - linear diffusion
+  - observation protocol
+  - synchronisation map
+abstract: "For linear stochastic systems we give exact conditions for when a Markov blanket screens inside from outside under different observation protocols, separate screening from encoding, and provide a single-file tool, all check scripts, and a real-data case that remains undecided."
+doi: 10.5281/zenodo.23524009
+repository-code: "https://github.com/casualwriter/ifo-fep"

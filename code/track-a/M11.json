@@ -1,0 +1,5 @@
+{
+ "fast_vs_slow_differs_random_units": 1.0,
+ "fast_noise_vs_random_units_differs": 0.5,
+ "n": 50
+}
