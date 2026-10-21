@@ -19,4 +19,11 @@ keywords:
   - synchronisation map
 abstract: "For linear stochastic systems we give exact conditions for when a Markov blanket screens inside from outside under different observation protocols, separate screening from encoding, and provide a single-file tool, all check scripts, and a real-data case that remains undecided."
 doi: 10.5281/zenodo.23524009
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23524008
+    description: "Concept DOI: all versions, always resolves to the latest"
+  - type: url
+    value: "https://zenodo.org/records/23524009"
+    description: "Zenodo record of version 1.0"
 repository-code: "https://github.com/casualwriter/ifo-fep"

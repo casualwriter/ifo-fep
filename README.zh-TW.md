@@ -25,7 +25,7 @@ CK Hung 與 Emmy Team（Amoy Technology）的兩篇相連的工作論文，以�
 
 ## 授權與引用
 
-論文：CC BY 4.0。程式碼：MIT。見 `LICENSE` 與 `LICENSE-papers.md`。引用方式見 `CITATION.cff`。DOI：[10.5281/zenodo.23524009](https://doi.org/10.5281/zenodo.23524009)（Zenodo）。
+論文：CC BY 4.0。程式碼：MIT。見 `LICENSE` 與 `LICENSE-papers.md`。引用方式見 `CITATION.cff`。1.0 版的 DOI：[10.5281/zenodo.23524009](https://doi.org/10.5281/zenodo.23524009)。所有版本的 DOI（永遠指向最新版）：[10.5281/zenodo.23524008](https://doi.org/10.5281/zenodo.23524008)。紀錄：https://zenodo.org/records/23524009
 
 ## 回饋
 
