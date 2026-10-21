@@ -17,7 +17,7 @@ The free energy principle describes a Markov blanket as the interface between in
 
 - `code/tools/blanket_report.py`: a single file that reports a proposed blanket for several observers. Run it without arguments for a demo. Needs NumPy and SciPy.
 - `code/track-a/`: one script per check (M1–M17d and earlier). Each script states its prediction (or "post hoc") in its header, prints its result and writes one JSON file, which is included here. The companion paper's Reproducibility table maps scripts to sections.
-- `code/tools/md2pdf.py`: turns a paper in Markdown into a PDF (Chrome and KaTeX). `make_release.py` makes a clean release copy. `zenodo_upload.py` uploads a draft to Zenodo.
+- `code/tools/md2pdf.py`: turns a paper in Markdown into a PDF (Chrome and KaTeX).
 
 Some script headers refer to internal planning notes (`plan/...`, `inbox/...`) that are not part of this repository; the prediction and the result in each header stand on their own.
 

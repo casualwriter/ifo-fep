@@ -17,7 +17,7 @@ CK Hung 與 Emmy Team（Amoy Technology）的兩篇相連的工作論文，以�
 
 - `code/tools/blanket_report.py`：單一檔案，報告一個提議的 blanket 在不同觀察者眼中的樣子。不帶參數執行即為示範。需要 NumPy 和 SciPy。
 - `code/track-a/`：每項檢查一支腳本（M1–M17d 及更早）。每支腳本在開頭寫明預測（或「事後」），印出結果，並寫出一個 JSON 檔（已附上）。技術稿的「可重現性」表對應腳本與章節。
-- `code/tools/md2pdf.py`：把 Markdown 論文轉成 PDF（Chrome 與 KaTeX）。`make_release.py` 產生乾淨的發表版。`zenodo_upload.py` 上傳 Zenodo 草稿。
+- `code/tools/md2pdf.py`：把 Markdown 論文轉成 PDF（Chrome 與 KaTeX）。
 
 部分腳本開頭提到內部規劃筆記（`plan/...`、`inbox/...`），不在這個倉庫內；每支腳本開頭的預測與結果本身是完整的。
 
