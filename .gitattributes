@@ -1,0 +1,5 @@
+# keep line endings identical on every platform, so SHA256SUMS.txt stays valid
+* text=auto eol=lf
+*.pdf binary
+*.png binary
+*.zip binary
