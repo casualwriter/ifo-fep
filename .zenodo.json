@@ -12,7 +12,7 @@
       "affiliation": "Amoy Technology"
     }
   ],
-  "description": "We build on the free energy principle (FEP), which describes a Markov blanket as the interface between inside and outside. We offer one more point of view: an interface is always an interface with someone, so a blanket claim is complete only when the observation protocol is stated. For linear stochastic systems we give exact results. (1) On a finite window, internal and external paths are conditionally independent given the blanket path iff there is no direct inside-outside coupling and M = A_BI^T D_B^-1 A_BE = 0, with a start condition; with a long history the start condition drops out, and a causal reader of the past blanket needs the same M = 0. (2) For a stationary reader of the whole time line, a spectral form of this condition is known (Fasen-Hartmann & Schenk, 2025); there, unlike on a finite window, the wiring cut is not necessary. (3) Screening and encoding (the FEP's synchronisation map) need different conditions. (4) The residual leak when M != 0 has an exact Riccati formula. We give a single-file tool, all scripts, a real-data case on fMRI that remains undecided, and a list of failed predictions. The point of view comes from a wider framework we are developing (IFO); every result holds without it.",
+  "description": "We build on the free energy principle (FEP), which describes a Markov blanket as the interface between inside and outside. We offer one more point of view: an interface is always an interface with someone, so a blanket claim is complete only when the observation protocol is stated. For linear stochastic systems we give exact results. (1) On a finite window, internal and external paths are conditionally independent given the blanket path iff there is no direct inside-outside coupling and M = A_BI^T D_B^-1 A_BE = 0, with a start condition; with a long history the start condition drops out, and a causal reader of the past blanket needs the same M = 0. (2) For a stationary reader of the whole time line, a spectral form of this condition is known (Fasen-Hartmann & Schenk, 2025); a graphical d-separation form for SDE sample paths (Boeken & Mooij, 2026) gives the sufficiency direction; there, unlike on a finite window, the wiring cut is not necessary. (3) Screening and encoding (the FEP's synchronisation map) need different conditions. (4) The residual leak when M != 0 has an exact Riccati formula. We give a single-file tool, all scripts, a real-data case on fMRI that remains undecided, and a list of failed predictions. The point of view comes from a wider framework we are developing (IFO); every result holds without it.",
   "keywords": [
     "free energy principle",
     "Markov blanket",
@@ -26,5 +26,6 @@
   ],
   "license": "cc-by-4.0",
   "language": "eng",
-  "version": "1.0"
+  "version": "1.0.1",
+  "notes": "Version 1.0.1 adds the comparison with Boeken & Mooij (2026), causal graphs for SDEs; no result changes. Version 1.0: DOI 10.5281/zenodo.23524009."
 }

@@ -2,12 +2,12 @@
 
 [English](README.md) | **繁體中文**
 
-CK Hung 與 Emmy Team（Amoy Technology）的兩篇相連的工作論文，以及程式碼和檢查。1.0 版，2026 年 10 月。
+CK Hung 與 Emmy Team（Amoy Technology）的兩篇相連的工作論文，以及程式碼和檢查。1.0.1 版，2026 年 10 月（1.0 版在 `papers/*/_old/`）。
 
 | 論文 | 內容 |
 |---|---|
-| [介面是與誰相接？Markov blanket 的宣稱取決於觀測方式](papers/fep-blanket/20261020-fep-blanket-v1.0-zh-tw.md)（[PDF](papers/fep-blanket/20261020-fep-blanket-v1.0-zh-tw.pdf)；[English](papers/fep-blanket/20261020-fep-blanket-v1.0.md)） | 主論文：觀點、主要結果，以及尚未證明的部分。 |
-| [線性擴散中的有限時間窗路徑屏蔽：一個精確條件與殘餘漏量公式](papers/path-blanket/20261020-path-blanket-v1.0-zh-tw.md)（[PDF](papers/path-blanket/20261020-path-blanket-v1.0-zh-tw.pdf)；[English](papers/path-blanket/20261020-path-blanket-v1.0.md)） | 技術稿：證明、數值檢查，以及失敗預測與更正的揭露（附錄 A）。 |
+| [介面是與誰相接？Markov blanket 的宣稱取決於觀測方式](papers/fep-blanket/20261022-fep-blanket-v1.0.1-zh-tw.md)（[PDF](papers/fep-blanket/20261022-fep-blanket-v1.0.1-zh-tw.pdf)；[English](papers/fep-blanket/20261022-fep-blanket-v1.0.1.md)） | 主論文：觀點、主要結果，以及尚未證明的部分。 |
+| [線性擴散中的有限時間窗路徑屏蔽：一個精確條件與殘餘漏量公式](papers/path-blanket/20261022-path-blanket-v1.0.1-zh-tw.md)（[PDF](papers/path-blanket/20261022-path-blanket-v1.0.1-zh-tw.pdf)；[English](papers/path-blanket/20261022-path-blanket-v1.0.1.md)） | 技術稿：證明、數值檢查，以及失敗預測與更正的揭露（附錄 A）。 |
 
 ## 一段話
 

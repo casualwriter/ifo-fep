@@ -2,12 +2,12 @@
 
 **English** | [繁體中文](README.zh-TW.md)
 
-Papers, code and checks for two linked working papers by CK Hung and the Emmy Team (Amoy Technology), version 1.0, October 2026.
+Papers, code and checks for two linked working papers by CK Hung and the Emmy Team (Amoy Technology), version 1.0.1, October 2026 (version 1.0 is in `papers/*/_old/`).
 
 | Paper | What it is |
 |---|---|
-| [Interface With Whom? Markov Blanket Claims Depend on the Observation Protocol](papers/fep-blanket/20261020-fep-blanket-v1.0.md) ([PDF](papers/fep-blanket/20261020-fep-blanket-v1.0.pdf), [繁體中文](papers/fep-blanket/20261020-fep-blanket-v1.0-zh-tw.md)) | The main paper: the point of view, the main results, and what is not yet shown. |
-| [Finite-Window Path Screening in Linear Diffusions: An Exact Condition and a Residual-Leak Formula](papers/path-blanket/20261020-path-blanket-v1.0.md) ([PDF](papers/path-blanket/20261020-path-blanket-v1.0.pdf), [繁體中文](papers/path-blanket/20261020-path-blanket-v1.0-zh-tw.md)) | The technical companion: proofs, numerical checks, and a disclosure of failed predictions and corrections (Appendix A). |
+| [Interface With Whom? Markov Blanket Claims Depend on the Observation Protocol](papers/fep-blanket/20261022-fep-blanket-v1.0.1.md) ([PDF](papers/fep-blanket/20261022-fep-blanket-v1.0.1.pdf), [繁體中文](papers/fep-blanket/20261022-fep-blanket-v1.0.1-zh-tw.md)) | The main paper: the point of view, the main results, and what is not yet shown. |
+| [Finite-Window Path Screening in Linear Diffusions: An Exact Condition and a Residual-Leak Formula](papers/path-blanket/20261022-path-blanket-v1.0.1.md) ([PDF](papers/path-blanket/20261022-path-blanket-v1.0.1.pdf), [繁體中文](papers/path-blanket/20261022-path-blanket-v1.0.1-zh-tw.md)) | The technical companion: proofs, numerical checks, and a disclosure of failed predictions and corrections (Appendix A). |
 
 ## In one paragraph
 
