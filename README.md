@@ -25,7 +25,7 @@ Not included: the fMRI data (a public copy of Gilson et al., 2018, at github.com
 
 ## Licence and citation
 
-Papers: CC BY 4.0. Code: MIT. See `LICENSE` and `LICENSE-papers.md`. To cite, see `CITATION.cff`. DOI of version 1.0: [10.5281/zenodo.23524009](https://doi.org/10.5281/zenodo.23524009). DOI for all versions (always the latest): [10.5281/zenodo.23524008](https://doi.org/10.5281/zenodo.23524008). Record: https://zenodo.org/records/23524009
+Papers: CC BY 4.0. Code: MIT. See `LICENSE` and `LICENSE-papers.md`. To cite, see `CITATION.cff`. DOI for all versions (always the latest): [10.5281/zenodo.23524008](https://doi.org/10.5281/zenodo.23524008).
 
 ## Feedback
 

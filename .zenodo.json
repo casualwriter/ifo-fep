@@ -27,5 +27,5 @@
   "license": "cc-by-4.0",
   "language": "eng",
   "version": "1.0.1",
-  "notes": "Version 1.0.1 adds the comparison with Boeken & Mooij (2026), causal graphs for SDEs; no result changes. Version 1.0: DOI 10.5281/zenodo.23524009."
+  "notes": "Version 1.0.1 adds the comparison with Boeken & Mooij (2026), causal graphs for SDEs; no result changes."
 }

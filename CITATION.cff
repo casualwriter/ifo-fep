@@ -22,8 +22,5 @@ doi: 10.5281/zenodo.23524008
 identifiers:
   - type: doi
     value: 10.5281/zenodo.23524008
-    description: "Concept DOI: all versions, always resolves to the latest"
-  - type: url
-    value: "https://zenodo.org/records/23524009"
-    description: "Zenodo record of version 1.0"
+    description: "DOI for all versions (always the latest)"
 repository-code: "https://github.com/casualwriter/ifo-fep"
